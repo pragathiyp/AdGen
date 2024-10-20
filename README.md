@@ -108,4 +108,4 @@ AdGen is created by Pragathi Y P, S Swaroop Bharadwaj, Preetham Kolli and S Sanj
 
 ## Contact
 
-If you have any questions, feel free to contact Pragathi Y P (pragathiy.cs20@bmsce.ac.in)
+If you have any questions, feel free to contact Pragathi Y P - pragathiy.cs20@bmsce.ac.in
